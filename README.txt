@@ -1,5 +1,3 @@
-There are many notebooks where different preprocessing steps were tried out and the data was inspected. These are irrelevant. All relevant, cleaned code is in the folder'final version'
-
 All notebooks have markdown where the steps and the rationale behind each step is explained.
 
 The seeds that were used are in the folder final_version/seeds.
